@@ -46,7 +46,7 @@ Edit for Lab Section 020L:
 - 
 Hey yall here is my edit
 
-Edit for Lab Section 021L:
+My name is walter hartwell white.
 -
 Hello this is my edit
 
