@@ -8,6 +8,6 @@ let yourPronouns : String = "he/him";
 const yourMajor : String = "Computer Science";
 let classification : String = "soph";
 let oneExcite : String = "The meat and potatoes of software engineering";
-let anyConcerns : String = "Failing";
-let funFact : String = "I transferred into Computer Science my freshman year";
+let anyConcerns : String = "Failing and screwing up assignments";
+let funFact : String = "I transferred into Computer Science the beginning of my sophmore year";
 
