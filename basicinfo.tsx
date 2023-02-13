@@ -2,12 +2,12 @@
 below variables and update them with stuff about you. Yeah... I know... the classic basic info
 everyone dreads at the start of the semester. Sorry, I just needed a filler for you guys to edit. */
 
-/*Un-comment this and fill in the info
-const yourName : String = "Your name";
-let yourPronouns : String = "Pro/Nouns";
-const yourMajor : String = "Your major";
-let classification : String = "freshman/soph/junior/senior/supersenior";
-let oneExcite : String = "One thing you're excited about in this course";
-let anyConcerns : String = "If anything, list what you may be worried about in this course";
-let funFact : String = "And the classic, list one fun fact about yourself";
-*/
+//Un-comment this and fill in the info
+const yourName : String = "Michael Lorang";
+let yourPronouns : String = "he/him";
+const yourMajor : String = "Computer Science";
+let classification : String = "soph";
+let oneExcite : String = "The meat and potatoes of software engineering";
+let anyConcerns : String = "Failing";
+let funFact : String = "I transferred into Computer Science my freshman year";
+
