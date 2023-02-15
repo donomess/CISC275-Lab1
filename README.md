@@ -42,16 +42,5 @@ Screenshots of your terminal for steps 4-6.
 
 If you don't finish this during your scheduled lab time, that's ok! But we encourage you to make your best attempt to get it done during lab time so we can guarantee you get help if you need it when you need it. If you have any questions about the wording of this lab, please email dmesser@udel.edu or ping him on the Discord channel #275-labs, as he could have made a typo or forgot to add a word in the directions.
 
-Edit for Lab Section 020L:
-- 
-Hey yall here is my edit
-
-Edit for Lab Section 021L:
--
-Hello this is my edit
-
 Edit for Lab Section 030L:
-- This edit is for my lab!
-
-Edit for Lab Section 031L:
--This is my Lab
+- This edit is for my lab! (Robert Oratorio)
